@@ -1,3 +1,1 @@
-# typescript
-# real-estate
-# game
+## Getting Started
